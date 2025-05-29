@@ -1,0 +1,24 @@
+.pytest_cache/
+.vscode/
+__pycache__
+.venv/
+~$*
+**/report/*
+data/schedule/*
+data/tmp/*
+*.7z
+auth/*
+*.png
+mainliuyi.py
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+*.log
+*.zip
+.venv/
+w
+main.py
+test.ps1
+demo01.py
